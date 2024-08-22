@@ -118,11 +118,11 @@ This repository contains all the necessary files and documentation to explore an
 
 ### 1. Explore the Data
 The raw data used for the analysis is located in the `data/` folder. This file includes comprehensive sales transaction records for the coffee shop:
-- `Coffee Shop Sales.xlsx`: This Excel file contains all the sales data, including details about product categories, order sizes, footfall, and sales distribution by time, location, and day of the week.
+- `Coffee Sales Dashboard.xlsx`: This Excel file contains all the sales data, including details about product categories, order sizes, footfall, and sales distribution by time, location, and day of the week.
 
 ### 2. View the Dashboard
 The interactive dashboard, created in Excel, is located in the `dashboard/` folder. You can open this file to explore the visualizations and insights interactively:
-- `coffee shop sales dashboard.xlsx`: Open this file in Excel to view and interact with the sales dashboard.
+- `Coffee Sales Dashboard.xlsx`: Open this file in Excel to view and interact with the sales dashboard.
 
 ### 3. Modify and Extend the Analysis
 Feel free to modify the existing analysis or extend it by adding new visualizations. The raw data and dashboard are fully editable, allowing you to customize the analysis to fit specific needs.
